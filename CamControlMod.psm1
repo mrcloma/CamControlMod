@@ -1,0 +1,8 @@
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\New-CamControlSession.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Get-CamControlCameras.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Get-CamControlEventos.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Get-CamControlRelatorioResumido.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Get-CamControlDetalhesRelatorio.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Get-CamControlDetalhesEvento.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Set-CamControlCamera.ps1"
+. "C:\Users\marcelod.lima\Downloads\CamControlMod\Set-CamControlEvento.ps1"
